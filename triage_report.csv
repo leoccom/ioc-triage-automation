@@ -1,5 +1,5 @@
-ip,abuse_score,country,isp,total_reports,recommendation,error
-185.220.101.1,100,DE,Artikel10 e.V.,151,HIGH PRIORITY - escalate,
-45.155.205.233,8,RU,Cloud Technologies LLC trading as Cloud.ru,3,MONITOR,
-8.8.8.8,0,US,Google LLC,128,LIKELY BENIGN,
-1.1.1.1,0,AU,APNIC and Cloudflare DNS Resolver project,179,LIKELY BENIGN,
+ip,abuse_score,country,isp,usage_type,total_reports,recommendation,error
+192.168.2.50,0,,,Reserved,0,LIKELY BENIGN,
+192.168.250.100,0,,,Reserved,0,LIKELY BENIGN,
+23.22.63.114,0,US,Amazon Data Services Northern Virginia,Data Center/Web Hosting/Transit,0,LIKELY BENIGN,
+40.80.148.42,0,US,Microsoft Corporation,Data Center/Web Hosting/Transit,0,LIKELY BENIGN,
